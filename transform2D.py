@@ -1,11 +1,3 @@
-'''
-Name: Pragyan Mehrotra
-Roll No: 2018168
-Section: A
-Group: 8
-'''
-
-
 import matplotlib.pyplot as plt	
 import random
 from math import *
